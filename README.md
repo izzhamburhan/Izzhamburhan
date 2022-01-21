@@ -3,6 +3,11 @@
 <h1 align="center">Hi 👋, I'm Izzham Burhan</h1>
 <h3 align="center">Comp Sci Student</h3>
 
+<h4>Tech Tanjak !
+
+I'm a student from Universiti Teknologi Mara. Im interested in technology and tradition. I hope these two can be combined to advance in the future. I want our country and world to be more developed, but at the same time want to take care of the natural resources in this world. - Hm Still thinking </h4>
+
+
 
 
 
