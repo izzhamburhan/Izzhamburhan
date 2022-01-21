@@ -16,7 +16,7 @@ I'm a student from Universiti Teknologi Mara. Im interested in technology and tr
 <br><br>
 <h1 align="center">Git Hub Stats</h1>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=izzhamburhan&theme=dark&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=izzhamburhan&theme=radical&show_icons=true)
 
 
 
