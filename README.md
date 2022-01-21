@@ -1,10 +1,21 @@
+
+<img src="https://media-exp1.licdn.com/dms/image/C5616AQGBNNk4ZtJZeQ/profile-displaybackgroundimage-shrink_350_1400/0/1624104914980?e=1648080000&v=beta&t=n3YQe6n9aLpqJE0t-EIL6QqI9QMGuzDzv1L9woY6ljs" alt="Italian Trulli">
 <h1 align="center">Hi 👋, I'm Izzham Burhan</h1>
-<h3 align="center">A passionate developer from Malaysia</h3>
+<h3 align="center">Comp Sci Student</h3>
+
+
+
+
+
+
+
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/izzham_ariff" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="izzham_ariff" height="30" width="40" /></a>
-<a href="www.linkedin.com/in/izzham-295566" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/izzham-295566" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/izzham-295566/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/izzham-295566" height="30" width="40" /></a>
 <a href="https://www.facebook.com/muhdariff.izzham/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="muhammad ariff izzham" height="30" width="40" /></a>
 <a href="https://instagram.com/izzh.am" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="izzh.am" height="30" width="40" /></a>
 </p>
