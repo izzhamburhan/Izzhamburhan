@@ -8,8 +8,8 @@
 I'm a student from Universiti Teknologi Mara. Im interested in technology and tradition. I hope these two can be combined to advance in the future. I want our country and world to be more developed, but at the same time want to take care of the natural resources in this world. - Hm Still thinking </h4>
 
 
-
-
+<h1 align="center">Git Hub Stats</h1>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=izzhamburhan&theme=dark&show_icons=true)
 
 
 
