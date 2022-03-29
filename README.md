@@ -1,5 +1,5 @@
 
-<img src="https://media-exp1.licdn.com/dms/image/C5616AQGBNNk4ZtJZeQ/profile-displaybackgroundimage-shrink_350_1400/0/1624104914980?e=1648080000&v=beta&t=n3YQe6n9aLpqJE0t-EIL6QqI9QMGuzDzv1L9woY6ljs" alt="Italian Trulli">
+<img src="https://media-exp1.licdn.com/dms/image/C5616AQGBNNk4ZtJZeQ/profile-displaybackgroundimage-shrink_350_1400/0/1624104914980?e=1648080000&v=beta&t=n3YQe6n9aLpqJE0t-EIL6QqI9QMGuzDzv1L9woY6ljs" alt="IzzhamBanner">
 <h1 align="center">Hi 👋, I'm Izzham Burhan</h1>
 <h3 align="center">Comp Sci Student</h3>
 <p align="center">
