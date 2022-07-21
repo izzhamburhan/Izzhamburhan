@@ -1,5 +1,5 @@
 
-<img src="https://media-exp1.licdn.com/dms/image/C5616AQGBNNk4ZtJZeQ/profile-displaybackgroundimage-shrink_350_1400/0/1624104914980?e=1654128000&v=beta&t=HRC2PWFpJWFUqP9uZkKbUkjVKQC3cxw7BoIAVgA0mvw" alt="IzzhamBanner">
+<img src="https://user-images.githubusercontent.com/58935865/180160543-51476333-075b-4f80-a587-b09ea2d05fa2.jpg" alt="IzzhamBanner">
 <h1 align="center">Hi 👋, I'm Izzham Burhan</h1>
 <h3 align="center">Comp Sci Student</h3>
 <p align="center">
