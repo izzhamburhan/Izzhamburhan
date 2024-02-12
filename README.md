@@ -1,5 +1,7 @@
 
-<img src="https://user-images.githubusercontent.com/58935865/180160543-51476333-075b-4f80-a587-b09ea2d05fa2.jpg" alt="IzzhamBanner">
+<img src="https://github.com/izzhamburhan/Izzhamburhan/assets/58935865/ba63641e-9b1e-43d1-9783-39a87cdeee00" alt="IzzhamBanner">
+<!-- <img src="https://user-images.githubusercontent.com/58935865/180160543-51476333-075b-4f80-a587-b09ea2d05fa2.jpg" alt="IzzhamBanner"> -->
+
 <h1 align="center">Hi 👋, I'm Izzham Burhan</h1>
 <h3 align="center">Intelligent System Student</h3>
 <p align="center">
