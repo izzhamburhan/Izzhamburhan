@@ -3,7 +3,7 @@
 <!-- <img src="https://user-images.githubusercontent.com/58935865/180160543-51476333-075b-4f80-a587-b09ea2d05fa2.jpg" alt="IzzhamBanner"> -->
 
 <h1 align="center">Hi 👋, I'm Izzham Burhan</h1>
-<h3 align="center">Intelligent System Student</h3>
+<h3 align="center">Intelligent System</h3>
 <p align="center">
 <a href="https://twitter.com/izzham_ariff" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="izzham_ariff" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/izzham-295566/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/izzham-295566" height="30" width="40" /></a>
@@ -13,7 +13,7 @@
 
 <h4>Tech Tanjak !
 
-I'm a student from Universiti Teknologi Mara. Im interested in technology and tradition. I hope these two can be combined to advance in the future. I want our country and world to be more developed, but at the same time want to take care of the natural resources in this world. - Hm Still thinking </h4>
+I'm scared ... Im interested in technology and tradition. I hope these two can be combined to advance in the future. I want our country and world to be more developed, but at the same time want to take care of the natural resources in this world. - Hm Still thinking </h4>
 
 <br><br>
 <h1 align="center">Git Hub Stats</h1>
